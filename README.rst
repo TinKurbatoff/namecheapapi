@@ -3,8 +3,8 @@ fork of namecheapapi
 ============
 Python Namecheap API wrapper for simple domain name registration and management.
 
-ORIGINAL NOTE: you will need API key from Namecheap to use this module (see below).
-MY NOTE: This is fork that dectets API overuse and throws correct error.
+* ORIGINAL NOTE: you will need API key from Namecheap to use this module (see below).
+* MY NOTE: This is fork that dectets API overuse and throws correct error.
 
 Overview
 --------
